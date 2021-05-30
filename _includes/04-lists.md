@@ -1,4 +1,4 @@
-*Pizza
-*Games
-*Water
-*Air
+* Pizza
+* Games
+* Water
+* Air
