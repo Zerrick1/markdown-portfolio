@@ -1,4 +1,4 @@
-* Javascript 
-* html
-* functions
-* variables
+* _Javascript 
+* _html
+* **functions
+* **variables
